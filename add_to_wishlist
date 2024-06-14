@@ -1,0 +1,21 @@
+gtag("event", "add_to_wishlist", {
+  currency: "USD",
+  value: 30.03,
+  items: [
+    {
+      item_id: "SKU_12345",
+      item_name: "Stan and Friends Tee",
+      index: 0,
+      affiliation: "Google Merchandise Store",
+      item_brand: "Google",
+      item_category: "Apparel",
+      item_category2: "Adult",
+      item_list_id: "related_products",
+      item_list_name: "Related Products",
+      coupon: "SUMMER_FUN",
+      discount: 2.22,
+      currency: "TWD",
+      price: 10.01,
+    }
+  ],
+});
