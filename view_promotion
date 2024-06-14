@@ -1,0 +1,26 @@
+gtag("event", "view_promotion", {
+  creative_name: "Summer Banner",
+  creative_slot: "featured_app_1",
+  promotion_id: "P_12345",
+  promotion_name: "Summer Sale",
+  items: [
+    {
+      item_id: "SKU_12345",
+      item_name: "Stan and Friends Tee",
+      affiliation: "Google Merchandise Store",
+      coupon: "SUMMER_FUN",
+      creative_name: "summer_banner2",
+      creative_slot: "featured_app_1",
+      discount: 2.22,
+      index: 0,
+      item_brand: "Google",
+      item_category: "Apparel",
+      item_category2: "Adult",
+      item_list_id: "related_products",
+      item_list_name: "Related Products",
+      price: 10.01,
+      promotion_id: "P_12345",
+      promotion_name: "Summer Sale",
+    }
+  ]
+});
